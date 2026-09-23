@@ -1,0 +1,11 @@
+{
+  "name": "MyCorner — shaxsiy makon",
+  "short_name": "MyCorner",
+  "description": "Vazifalar, qaydlar, kurslar va eslatmalar bir joyda.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f7f7f2",
+  "theme_color": "#15251d",
+  "icons": [{ "src": "./mark.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }]
+}
